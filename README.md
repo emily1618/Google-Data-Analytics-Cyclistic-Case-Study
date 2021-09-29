@@ -12,7 +12,7 @@ Primary stakeholders: The director of marketing Lily Moreno and Cyclistic execut
 
 Secondary stakeholders: Cyclistic marketing analytics team.
 
-## **Data Preparation**
+## **Prepare**
 Data Source: 12 Month (Aug 2020 to August 2021) of Cyclistic trip Data from Motivate International Inc: [data source link](https://divvy-tripdata.s3.amazonaws.com/index.html) with [license](https://www.divvybikes.com/data-license-agreement).
 
 The dataset has 12 CSV, 13 columns and 4.9 million rows. The data also follow a ROCCC approach:
@@ -34,7 +34,7 @@ The dataset has limitations:
   head(count(bike_data, end_station_name, member_casual,  rideable_type, sort= TRUE))
   ```
 
-## **Data Process**
+## **Process**
 
 Steps to clean and remove unnecessary data in R Studio.
 
@@ -78,7 +78,7 @@ bike_data <- bike_data[bike_data$ride_length>0,]
 sum(bike_data$ride_length > 1440)
 ```
 
-## Data Analysis
+## Analyze
 
 Check min, max, mean, median and any outlier on the ride length.
 ```
@@ -105,9 +105,12 @@ bike_data %>%
  For the last part in analyzing the data, we will use use ggplot and tableau for graphical interpretation of analysis. You will find the r file for the ggplot code at this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)
 
  
+ 
 
 ## Share 
 Tableau Presentation: link will be available at a later date. 
+
+
 
 ## Act
 Conclusion based on our analysis:
