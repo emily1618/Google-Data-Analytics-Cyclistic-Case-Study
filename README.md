@@ -102,7 +102,7 @@ bike_data %>%
   arrange(member_casual, weekday)								
  ```
  
- For the last part in analyzing the data, we will use use ggplot and tableau for graphical interpretation of analysis. You will find the r file for the ggplot code at this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)
+***For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!***
 
  
  
