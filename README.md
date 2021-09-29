@@ -108,8 +108,7 @@ bike_data %>%
  
 
 ## Share 
-Tableau Presentation: link will be available at a later date. 
-
+[Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).
 
 
 ## Act
