@@ -85,8 +85,6 @@ sum(bike_data$ride_length > 1440)
 
 ## 4. Analyze
 
-⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
-
 
 Check min, max, mean, median and any outlier on the ride length.
 ```
@@ -110,10 +108,11 @@ bike_data %>%
   arrange(member_casual, weekday)								
  ```
  
+ ⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
  
 
 ## 5. Share 
-🎨 [Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).
+🎨 **[Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).**
 
 
 ## 6. Act
