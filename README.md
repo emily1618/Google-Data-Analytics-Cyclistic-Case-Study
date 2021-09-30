@@ -69,7 +69,7 @@ bike_data$ride_length <- as.numeric(bike_data$ride_length)
 bike_data$ride_length <- as.numeric(bike_data$ride_length/60)
 ```
 
-✅ Optional: the started and ended time is in a yyyy-mm-dd hh-mm-ss format. We can further divide this into two columns: date and time:
+⛔ The started and ended time is in a yyyy-mm-dd hh-mm-ss format. We can further divide this into two columns: date and time. This step is optional.
 ```
 bike_data <- separate(bike_data,"started_at",into=c('start_date','start_time'), sep=' ')
 bike_data <- separate(bike_data,"ended_at",into=c('start_date','start_time'), sep=' ')
@@ -126,13 +126,13 @@ Conclusion based on our analysis:
 - Most popular station for casual riders are: Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park.
 - Most active months for casual riders are from June to August.
 
-💡 Marketing ideas to convert casual riders into members:
+💡 Marketing ideas to convert casual riders into members 💡
 
-#### 1. Marketing effort on the top 5 most popular stations for the causal riders.
+#### 1. Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
 
 #### 2. Promotional short term membership offer during the summer months.
 
 #### 3. Promotional weekend term membership for the weekends.
 
-#### 4. Points incentive for riding more trips in a membership format to receive discount. 
+#### 4. Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
 
