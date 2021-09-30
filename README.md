@@ -13,7 +13,7 @@ _The case study follows the six step data analysis process:_
 In 2016, Cyclistic launched a successful bike-share offering. The company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 
 ## 1. Business task 
-💡 **Analyze rider’s riding data to develop digital marketing strategy to convert casual riders into annual members. 💡
+💡 Analyze rider’s riding data to develop digital marketing strategy to convert casual riders into annual members. 💡
 
 Primary stakeholders: The director of marketing Lily Moreno and Cyclistic executive team.
 
