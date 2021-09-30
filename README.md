@@ -97,6 +97,9 @@ aggregate(bike_data$ride_length ~ bike_data$member_casual, FUN = mean)
 aggregate(bike_data$ride_length ~ bike_data$member_casual, FUN = median)
 aggregate(bike_data$ride_length ~ bike_data$member_casual + bike_data$day_of_week, FUN = mean)
 ```
+![000005](https://user-images.githubusercontent.com/62857660/135518463-b62936bd-ae6a-479d-9613-412ef341bfca.png)
+
+
 
 Analyze ridership by user types and day of the week.
 ```
@@ -107,12 +110,19 @@ bike_data %>%
   ,average_duration = mean(ride_length)) %>% 		
   arrange(member_casual, weekday)								
  ```
+ ![000003](https://user-images.githubusercontent.com/62857660/135518560-3169ab87-8a83-41d3-aad2-136483a6d188.png)
+
  
  ⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
  
 
 ## 5. Share 
 🎨 **[Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).**
+
+![download](https://user-images.githubusercontent.com/62857660/135517748-49c9a761-8482-493f-918b-86b54ce0c318.PNG)
+![2](https://user-images.githubusercontent.com/62857660/135517922-47654400-312f-4fa2-a0db-eccafd529da5.PNG)
+
+
 
 
 ## 6. Act
@@ -132,5 +142,7 @@ Marketing recommendations to convert casual riders into members:
 ##### 🚴‍♂️ Promotional weekend term membership for the weekends.
 
 ##### 🎁 Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
+
+
 
 
