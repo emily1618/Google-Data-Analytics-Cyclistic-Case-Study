@@ -5,7 +5,7 @@ _The case study follows the six step data analysis process:_
 ### 2.[Prepare](#prepare)
 ### 3.[Process](#process)
 ### 4.[Analyze](#analyze)
-### 5.[Share](#share)
+### 5.[Share](#5-.-share)
 ### 6.[Act](#act)
 
 ## Scenario
