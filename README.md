@@ -43,9 +43,7 @@ The dataset has 12 CSV, 13 columns and 4.9 million rows. The data also follow a 
 
 ## 3. Process
 
-Steps to clean and remove unnecessary data in R Studio.
-
- **Examine the data:** 
+Examine the data:
 
 ```
 head(bike_data)
@@ -54,13 +52,13 @@ colnames(bike_data)
 summary(bike_data)
 ```
 
-**Indentify unnecessary data and remove those columns:**
+Indentify unnecessary data and remove those columns:
 
 ```
 bike_data <- bike_data %>% select(-c(start_lat, start_lng, end_lat, end_lng))
 ```
 
-**Add two columns: ride length and day of the week:** 
+Add two columns: ride length and day of the week:
 ```
 bike_data <- bike_data %>% mutate(ride_length = ended_at - started_at) %>% mutate(day_of_week = weekdays(as.Date(bike_data$started_at)))
 
@@ -75,7 +73,7 @@ bike_data <- separate(bike_data,"started_at",into=c('start_date','start_time'), 
 bike_data <- separate(bike_data,"ended_at",into=c('start_date','start_time'), sep=' ')
 ```
 
-**Remove data error:**
+Remove data error:
 
 ```
 #check for data with negative ride length:
