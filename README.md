@@ -12,14 +12,14 @@ _The case study follows the six step data analysis process:_
 ## Scenario
 In 2016, Cyclistic launched a successful bike-share offering. The company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 
-## **1. Business task ❓** 
+## **1. Business task ** 
 Analyze rider’s riding data to develop digital marketing strategy to convert casual riders into annual members. 
 
 Primary stakeholders: The director of marketing Lily Moreno and Cyclistic executive team.
 
 Secondary stakeholders: Cyclistic marketing analytics team.
 
-## **2. Prepare 💻**
+## **2. Prepare **
 Data Source: 12 Month (Aug 2020 to August 2021) of Cyclistic trip Data from Motivate International Inc: [data source link](https://divvy-tripdata.s3.amazonaws.com/index.html) with [license](https://www.divvybikes.com/data-license-agreement).
 
 The dataset has 12 CSV, 13 columns and 4.9 million rows. The data also follow a ROCCC approach:
@@ -41,7 +41,7 @@ The dataset has 12 CSV, 13 columns and 4.9 million rows. The data also follow a 
   head(count(bike_data, end_station_name, member_casual,  rideable_type, sort= TRUE))
   ```
 
-## **3. Process 🛠**
+## **3. Process**
 
 Steps to clean and remove unnecessary data in R Studio.
 
@@ -85,7 +85,7 @@ bike_data <- bike_data[bike_data$ride_length>0,]
 sum(bike_data$ride_length > 1440)
 ```
 
-## 4. Analyze 📊
+## 4. Analyze
 
 Check min, max, mean, median and any outlier on the ride length.
 ```
@@ -114,11 +114,11 @@ bike_data %>%
  
  
 
-## 5. Share  📋
+## 5. Share 
 [Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).
 
 
-## 6. Act 🚲
+## 6. Act
 Conclusion based on our analysis:
 - Casual riders rides mostly during the weekends.
 - Casual riders ride longer duration, but least total trips. 
