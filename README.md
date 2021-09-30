@@ -123,7 +123,7 @@ Conclusion based on our analysis:
 - Most popular station for casual riders are: Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park.
 - Most active months for casual riders are from June to August.
 
-***Marketing ideas to convert casual riders into members:***
+Marketing recommendations to convert casual riders into members:
 
 #### 🚩  Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
 
