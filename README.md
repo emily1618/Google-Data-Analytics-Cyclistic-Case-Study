@@ -125,12 +125,12 @@ Conclusion based on our analysis:
 
 Marketing recommendations to convert casual riders into members:
 
-#### 🚩  Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
+##### 🚩  Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
 
-#### ⛱  Promotional short term membership offer during the summer months.
+##### ⛱  Promotional short term membership offer during the summer months.
 
-#### 🚴‍♂️ Promotional weekend term membership for the weekends.
+##### 🚴‍♂️ Promotional weekend term membership for the weekends.
 
-#### 🎁 Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
+##### 🎁 Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
 
 
