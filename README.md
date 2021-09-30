@@ -1,12 +1,12 @@
 # CASE STUDY: Chicago Cyclist Bike-Share Analysis
 
 _The case study follows the six step data analysis process:_
-### 1.[Ask](#business-task)
-### 2.[Prepare](#prepare)
-### 3.[Process](#process)
-### 4.[Analyze](#analyze)
-### 5.[Share](#5-share)
-### 6.[Act](#act)
+### [1.Ask](#1-business-task)
+### [2.Prepare](#2-prepare)
+### [3.Process](#3-process)
+### [4.Analyze](#4-analyze)
+### [5.Share](#5-share)
+### [6.Act](#6-act)
 
 ## Scenario
 In 2016, Cyclistic launched a successful bike-share offering. The company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
