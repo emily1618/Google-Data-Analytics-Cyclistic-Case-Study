@@ -85,7 +85,7 @@ bike_data <- bike_data[bike_data$ride_length>0,]
 sum(bike_data$ride_length > 1440)
 ```
 
-## 4. Analyze
+## 4. Analyze 📊
 
 Check min, max, mean, median and any outlier on the ride length.
 ```
