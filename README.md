@@ -13,7 +13,7 @@ _The case study follows the six step data analysis process:_
 In 2016, Cyclistic launched a successful bike-share offering. The company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 
 ## 1. Business task 
-✨ Analyze rider’s riding data to develop digital marketing strategy to convert casual riders into annual members. ✨
+💡 Analyze rider’s riding data to develop digital marketing strategy to convert casual riders into annual members. 
 
 Primary stakeholders: The director of marketing Lily Moreno and Cyclistic executive team.
 
@@ -30,7 +30,7 @@ The dataset has 12 CSV, 13 columns and 4.9 million rows. The data also follow a 
 - Current: data is up to date to August 2021
 - Cited: the data is cited and under current [license](https://www.divvybikes.com/data-license-agreement) agreement.
 
-🚫 The dataset has limitations:
+⛔ The dataset has limitations:
 
 - Personally identifiable information: the dataset has a restriction of personally identifiable information, so we have no data if that a ride is by an unique rider or the same rider who ride more than once as a casual rider or a member. 
 - NA values: after checking `sum(is.na(bike_data))`, we see the dataset has 1893790 NA values, such as in starting_station_id, end_station_id. Further investigation we noticed the NA values are mostly under rideable type: electric bike. Future investigations may be needed by the station names are not entered for electric bike. 
@@ -126,13 +126,13 @@ Conclusion based on our analysis:
 - Most popular station for casual riders are: Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park.
 - Most active months for casual riders are from June to August.
 
-💡 Marketing ideas to convert casual riders into members 💡
+***Marketing ideas to convert casual riders into members***
 
-#### 1. Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
+#### 🚩 1. Marketing effort on the top 5 most popular stations for the causal riders. It can be a booth, print media on the bike or the locking station area, or social media post on contest starting from the most popular stations. 
 
-#### 2. Promotional short term membership offer during the summer months.
+#### ⛱ 2. Promotional short term membership offer during the summer months.
 
-#### 3. Promotional weekend term membership for the weekends.
+#### 🚴‍♂️ 3. Promotional weekend term membership for the weekends.
 
-#### 4. Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
+#### 🎁 4. Point-award incentive system for riding more trips in a membership format to receive discount and partnership offers. 
 
