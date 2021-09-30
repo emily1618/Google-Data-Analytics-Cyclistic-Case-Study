@@ -85,6 +85,9 @@ sum(bike_data$ride_length > 1440)
 
 ## 4. Analyze
 
+⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
+
+
 Check min, max, mean, median and any outlier on the ride length.
 ```
 summary(bike_data$ride_length)
@@ -106,9 +109,6 @@ bike_data %>%
   ,average_duration = mean(ride_length)) %>% 		
   arrange(member_casual, weekday)								
  ```
- 
-⛔ For the complete R code and analyze the data using ggplot for graphical interpretation, please view the rmd file on this [R code link](https://github.com/xtenix88/Google-Data-Analytic-Capstone/blob/main/Cyclist-Data-Analysis-Google-Capstone.Rmd)!
-
  
  
 
