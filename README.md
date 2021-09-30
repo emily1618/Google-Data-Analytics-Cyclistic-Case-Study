@@ -5,7 +5,7 @@ _The case study follows the six step data analysis process:_
 ### 2.[Prepare](#prepare)
 ### 3.[Process](#process)
 ### 4.[Analyze](#analyze)
-### 5.[Share](#5.-share)
+### 5.[Share](#5-share)
 ### 6.[Act](#act)
 
 ## Scenario
@@ -113,7 +113,7 @@ bike_data %>%
  
  
 
-## 5. Share 
+## 5 Share 
 [Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).
 
 
