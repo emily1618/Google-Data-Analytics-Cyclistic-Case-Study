@@ -1,5 +1,11 @@
 # CASE STUDY: Chicago Cyclist Bike-Share Analysis
 
+##### Author: Emily Liang
+
+##### Date: October 1, 2021
+
+#
+
 _The case study follows the six step data analysis process:_
 
 ### ❓ [Ask](#1-ask)
