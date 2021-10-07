@@ -128,8 +128,8 @@ bike_data %>%
 ## 5. Share 
 🎨 **[Emily Liang's Tableau Presentation on Cyclist Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).**
 
-![download](https://user-images.githubusercontent.com/62857660/135517748-49c9a761-8482-493f-918b-86b54ce0c318.PNG)
-![2](https://user-images.githubusercontent.com/62857660/135517922-47654400-312f-4fa2-a0db-eccafd529da5.PNG)
+![1](https://user-images.githubusercontent.com/62857660/136473609-19bbe0ca-02c5-487b-8d4a-ce52a3edc52f.JPG)
+![2](https://user-images.githubusercontent.com/62857660/136473621-eb48452b-ebdd-4acf-b49b-11bedee47542.JPG)
 
 
 
