@@ -1,6 +1,6 @@
 # CASE STUDY: Chicago Cyclist Bike-Share Analysis
 
-##### Author: Emily Liang
+##### Author: Emi Ly
 
 ##### Date: October 1, 2021
 
