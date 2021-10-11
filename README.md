@@ -127,9 +127,11 @@ bike_data %>%
 
 ## 5. Share 
 🎨 **[Tabealu Dashboard on Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclisticBikeShareAnalysisDashboard/GiantDashboard)**
+
 ![dash](https://user-images.githubusercontent.com/62857660/136834696-39ee5b7e-71ca-43f7-b7f9-a5d4c2fd53d6.PNG)
 
 🎨 **[Tableau Presentation on Cyclistic Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1).**
+
 ![1](https://user-images.githubusercontent.com/62857660/136473917-62988816-3893-4ee1-b2ce-fdb17f9a6552.JPG)
 ![2](https://user-images.githubusercontent.com/62857660/136473929-be13f89d-6ebe-43f0-96c0-9dc7cb7d1c7b.JPG)
 
