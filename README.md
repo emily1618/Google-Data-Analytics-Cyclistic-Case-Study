@@ -4,7 +4,9 @@
 
 ##### Date: October 1, 2021
 
-##### [Tabealu Dashboard on Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclisticBikeShareAnalysisDashboard/GiantDashboard)
+##### [Tabealu Dashboard](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclisticBikeShareAnalysisDashboard/GiantDashboard)
+
+##### [Tableau Story Presentation to Skateholders](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclistBikeShareAnalysis/Story1)
 
 #
 
