@@ -4,6 +4,8 @@
 
 ##### Date: October 1, 2021
 
+##### [Tabealu Dashboard on Bike-Sharing Case Study](https://public.tableau.com/app/profile/emily.liang7497/viz/CyclisticBikeShareAnalysisDashboard/GiantDashboard)
+
 #
 
 _The case study follows the six step data analysis process:_
